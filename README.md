@@ -6,11 +6,12 @@ This is a rewrite of the foodatepicker. Because there where a couple of bug I ne
 
 if you want to use the daypicker everywhere in your application:
 
-// import datepicker
+```sh
+main.js:  
 import { DatePicker } from './modules/datepicker.js';
 window.datePicker = new DatePicker();
 
-then create daypicker for every element on your pages:
-
- // create datepicker
- datePicker.initialize([element]); 
+code.js of whatever name you want for your javascript file:
+datePicker.initialize([element);   
+[element] can be every valid html element you want your datepicker connect to
+```
