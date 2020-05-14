@@ -1,6 +1,12 @@
-<h1>DatePicker</h1>
+<h1>vanilla-datepicker</h1>
 
-This is a rewrite of the foodatepicker. Because there where a couple of bug I needed to fix those. When I was busy I thought why not write the whole thing as a javascript Module. I skipped some code so if you need it in another language, no problem the code is heavily commented so easy to know where you will have to put Weeks, Months in your code.
+This is a rewrite of the foodatepicker. 
+
+I did not give the vanilla-datepicker a special name. Just DatePicker, but you can in the main.js file whatever you want to call it.
+
+<h2>Why the rewrite<h2>
+
+Because there where a couple of bug I needed to fix. When I was busy I thought why not write the whole thing as a javascript Module. I skipped some code so if you need it in another language, no problem the code is heavily commented so its easy to know where you will have to put Weeks, Months and format in your code.
 
 <h2>Use the date picker</h2>
 
