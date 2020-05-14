@@ -2,7 +2,7 @@
 
 This is a rewrite of the foopicker (credits go to saikonero)
 
-I did not give the vanilla-datepicker a special name. Just DatePicker, but you can in the main.js file whatever you want to call it.
+I did not give the vanilla-datepicker a special name. Just DatePicker, but you can call it in the main.js file whatever you want.
 
 <h2>Why the rewrite?</h2>
 
