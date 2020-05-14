@@ -1,6 +1,6 @@
 <h1>vanilla-datepicker</h1>
 
-This is a rewrite of the foopicker (credits of saikonero)
+This is a rewrite of the foopicker (credits go to saikonero)
 
 I did not give the vanilla-datepicker a special name. Just DatePicker, but you can in the main.js file whatever you want to call it.
 
