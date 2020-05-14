@@ -17,7 +17,7 @@ main.js:
 import { DatePicker } from './modules/datepicker.js';
 window.datePicker = new DatePicker();
 
-code.js of whatever name you want for your javascript file:
+app.js (or whatever...)
 datePicker.initialize([element]);   
 [element] can be every valid html element you want your datepicker connect to
 ```
