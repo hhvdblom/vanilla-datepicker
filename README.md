@@ -15,3 +15,7 @@ code.js of whatever name you want for your javascript file:
 datePicker.initialize([element]);   
 [element] can be every valid html element you want your datepicker connect to
 ```
+
+<h2>Class</h2>
+
+Its one class. Thats why you will need the initialize function. If you put the datePicker.initialize function in a loop and give the inputfields on a form a classname 'datepicker' then you can initialize all datepickers on that page in one loop.
