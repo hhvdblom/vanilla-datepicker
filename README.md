@@ -4,6 +4,8 @@ This is a rewrite of the foopicker (credits go to Sai Konero)
 
 I did not give the vanilla-datepicker a special name. Just DatePicker, but you can call it in the main.js file whatever you want.
 
+![image](https://user-images.githubusercontent.com/33422136/237006648-a96d2f6a-1353-4c7c-98d6-337186d7b20e.png)
+
 <h2>Why the rewrite?</h2>
 
 Because there where a couple of bugs I needed to fix. When I was busy I thought why not write the whole thing as a javascript Module. I skipped some code so if you need it in another language, no problem the code is heavily commented so its easy to know where you will have to put Weeks, Months and format in your code.
